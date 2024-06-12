@@ -6,7 +6,7 @@
   </a>
 </p>
 
-This repository contains my personal presentations on various software engineering tools and topics.
+This repository contains my personal presentations on a variety of topics related to AI, computer science, software engineering, software development, and more.
 
 ## Table of Contents
 

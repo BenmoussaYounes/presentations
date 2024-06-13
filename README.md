@@ -12,6 +12,7 @@ This repository contains my personal presentations on a variety of topics relate
 
 1. [Apollo Client Presentation](#apollo-client-presentation)
 2. [From Monolith to Microservices Presentation](#from-monolith-to-microservices-presentation)
+3. [SOLID Principles](#solid-principles)
 
 ## Installation 🔌
 

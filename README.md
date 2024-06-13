@@ -10,10 +10,10 @@ This repository contains my personal presentations on a variety of topics relate
 
 ## Table of Contents
 
-1. [Apollo Client Presentation](#apollo-client-presentation)
-2. [From Monolith to Microservices Presentation](#from-monolith-to-microservices)
-3. [SOLID Principles](#solid-principles)
-4. [Artificial Intelligence](#aritifcial-intelligence)
+1. [Apollo Client Presentation](apollo-client-presentation)
+2. [From Monolith to Microservices Presentation](from-monolith-to-microservices)
+3. [SOLID Principles](solid-principles)
+4. [Artificial Intelligence](aritifcial-intelligence)
 
 ## Installation 🔌
 
